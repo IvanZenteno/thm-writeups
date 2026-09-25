@@ -2,7 +2,7 @@
 
 > Sala: [Blue](https://tryhackme.com/room/blue)
 > Dificultad: Easy
-> Técnicas: Enumeración SMB, MS17-000 (EternalBlue), Metasploit, escalada de privilegios en Windows
+> Técnicas: Enumeración SMB, MS17-010 (EternalBlue), Metasploit, escalada de privilegios en Windows
 
 ![Blue room intro](screenshots/00-intro.png)
 
